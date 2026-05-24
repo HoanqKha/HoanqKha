@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**HoanqKha/HoanqKha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+```cpp
+class HoangKha {
+public:
+    string fullName = "Le Pham Hoang Kha";
+    string university = "PTIT HCM";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    vector<string> languages = {
+        "C",
+        "C++",
+        "Python",
+        "Java"
+    };
+
+    vector<string> interests = {
+        "Algorithms",
+        "Backend Development",
+        "Frontend Development"
+    };
+
+    string goal = "Become a Fullstack Developer";
+};
+```
+
+## Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=HoangKha&show_icons=true&theme=tokyonight)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangKha&layout=compact&theme=tokyonight)
+
+---
+
+## Current Focus
+- 📚 Practicing Data Structures & Algorithms
+- 🌐 Learning Fullstack Development
+- 🚀 Improving problem solving skills
